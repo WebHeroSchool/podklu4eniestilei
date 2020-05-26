@@ -26,7 +26,8 @@
 
 .section-recept__description {
   text-align: start;
-  word-break: normal; 
+  word-break: normal;
+  
   background-color: purple;
   overflow-wrap: normal;
 }
@@ -50,4 +51,3 @@
 .recept-list__item {
   height: 2em;
 }
-
