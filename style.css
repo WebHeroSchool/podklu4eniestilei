@@ -27,7 +27,6 @@
 .section-recept__description {
   text-align: start;
   word-break: normal;
-  
   background-color: purple;
   overflow-wrap: normal;
 }
