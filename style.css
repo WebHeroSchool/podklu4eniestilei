@@ -1,0 +1,52 @@
+.header {
+  background-color: salmon;
+  height: 80px;
+  font-family: cursive;
+}
+
+.section-recept__title {
+  font-stretch: ultra-condensed;
+  background: #e8e8e8;
+  text-align: center;
+  font-style: oblique;
+}
+
+.header__title {
+  font-family: monospace;
+  background-image: linear-gradient(white, gray);
+}
+
+.header__btn {
+  background: #e6e3df;
+  text-align: center;
+  height: 50px;
+  width: 100px;
+  display: inline-block;
+}
+
+.section-recept__description {
+  text-align: start;
+  word-break: normal;
+  background-color: purple;
+  overflow-wrap: normal;
+}
+
+.recept-list {
+  text-transform: uppercase;
+  background-color: green;
+  border-color: #cacd58;
+  border-width: 5px;
+}
+
+.recept-list__description {
+  text-align: center;
+}
+
+.footer__title {
+  font-weight: 900;
+  background-color: yellow;
+}
+
+.recept-list__item {
+  height: 2em;
+}
